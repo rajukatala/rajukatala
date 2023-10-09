@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajuram katala
 - 👀 I’m interested in Elecetronics VLSI.
-- 🌱 I’m currently pursuing B.TECH in Electronics and Communication Engg. from Indian Institute of information technology Allahabad.
+- 🌱 I’m have done B.TECH in Electronics and Communication Engg. from Indian Institute of information technology Allahabad.
 - 💞️ I’m looking to collaborate on Digital VLSI Systems.
 - 📫 How to reach me: https://www.linkedin.com/in/rajuram-katala-152355192
 
